@@ -23,7 +23,7 @@ Halo! Saya Mahesa, seorang pelajar yang sedang menekuni dunia IT, khususnya di b
 |--------------|-----------|-----------|
 | WEB SHOP CHOCO | Tampilan produk dan chekout | HTML, CSS, JS, DB-Spreadsheet |
 | Portfolio | Data Diri | HTML, CSS, JS |
-| WEB eSeragam KOPSIS | WEB Data perlengkapan dan seragama siswa | HTML, CSS, JS, PYTHON, JSON |
+| WEB eSeragam KOPSIS | WEB Data perlengkapan dan seragam siswa | HTML, CSS, JS, PYTHON, JSON |
 
 > Selengkapnya bisa dicek di folder-folder repo ini.
 
