@@ -21,9 +21,9 @@ Halo! Saya Mahesa, seorang pelajar yang sedang menekuni dunia IT, khususnya di b
 ## 📁 Project Highlights
 | Nama Project | Deskripsi | Teknologi |
 |--------------|-----------|-----------|
-| SimpleLoginPage | Halaman login sederhana dengan validasi | HTML, CSS, JS |
-| Mini-CTF-Challenge | Kumpulan soal CTF buatan sendiri | Python, Web |
-| Portofolio Web | Website pribadi menampilkan bio dan karya | HTML, Tailwind |
+| WEB SHOP CHOCO | Tampilan produk dan chekout | HTML, CSS, JS, DB-Spreadsheet |
+| Portfolio | Data Diri | HTML, CSS, JS |
+| WEB eSeragam KOPSIS | WEB Data perlengkapan dan seragama siswa | HTML, CSS, JS, PYTHON, JSON |
 
 > Selengkapnya bisa dicek di folder-folder repo ini.
 
